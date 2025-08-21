@@ -6,8 +6,8 @@ function App() {
       <h1>Welcome to My React App</h1>
       <p>This app is running on Nginx!</p>
 
-      <h2>Deployed by: <strong>Olajide Salami</strong></h2>
-      <p>Date: <strong>DD/MM/YYYY</strong></p>
+      <h2>Deployed by: <strong>Name Here</strong></h2>
+      <p>Date: <strong>21/01/YYYY</strong></p>
 
       <hr style={{ margin: "20px 0" }} />
 
